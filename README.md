@@ -11,9 +11,3 @@ A fun and interactive memory game built using **HTML, CSS, and JavaScript**. Cli
 3. Repeat the sequence by clicking the buttons in the same order.  
 4. Each round gets harder!  
 
- 
-- HTML  
-- CSS  
-- JavaScript  
-- jQuery  
-
